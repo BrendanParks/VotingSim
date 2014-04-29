@@ -20,8 +20,7 @@ import com.brndn.votingsim.R;
 
 public class LoginActivity extends Activity {
 //Hello i am change 
-//Hello i am also change
-	
+
 	View rootView; 
 	 
 	Button loginButton; 
