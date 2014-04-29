@@ -1,8 +1,9 @@
-package com.example.votingsim;
+package com.brndn.votingsim;
 
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
+import com.brndn.votingsim.R;
 
 public class MainActivity extends Activity {
 

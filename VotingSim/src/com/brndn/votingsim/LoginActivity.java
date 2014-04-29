@@ -1,4 +1,4 @@
-package com.example.votingsim;
+package com.brndn.votingsim;
 
 import java.net.MalformedURLException;
 import java.net.URL;
@@ -16,6 +16,7 @@ import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
+import com.brndn.votingsim.R;
 
 public class LoginActivity extends Activity {
 //Hello i am change 
