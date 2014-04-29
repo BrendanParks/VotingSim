@@ -20,7 +20,7 @@ import android.widget.TextView;
 public class LoginActivity extends Activity {
 
 	
-	View rootView;
+	View rootView; 
 	
 	Button loginButton; 
 	EditText userField;
