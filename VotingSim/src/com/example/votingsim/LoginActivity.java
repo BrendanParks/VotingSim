@@ -21,7 +21,7 @@ public class LoginActivity extends Activity {
 
 	
 	View rootView; 
-	
+	 
 	Button loginButton; 
 	EditText userField;
 	EditText passField;
