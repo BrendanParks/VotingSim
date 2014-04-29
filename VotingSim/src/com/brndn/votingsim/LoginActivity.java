@@ -22,6 +22,9 @@ public class LoginActivity extends Activity {
 //Hello i am change 
 
 //Hello i am also change
+
+	
+//Change 3 from local
 	
 	View rootView; 
 	 
