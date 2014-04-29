@@ -18,7 +18,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 public class LoginActivity extends Activity {
-
+//Hello i am change
 	
 	View rootView; 
 	 
